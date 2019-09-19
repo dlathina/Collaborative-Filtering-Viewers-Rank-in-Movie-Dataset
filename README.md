@@ -1,10 +1,14 @@
-# collaborative-filtering-python
+# Collaborative-Filtering-Viewers-Rank-in-Movie-Dataset
 
-This code is an implementation of Collabrative Filtering way of recommendation engine
+>To complete my Data Analysis project I am using Viewers-Rank-in-Movie-Dataset 
+
+>This data set contains information about 24 viewers rank of 10 movies collected. 
+
+>#### **Question that can analysed from this data set**
+> 1. Printing movie(s) recomendation for one user
+> 2. Printing nearest user
+> 3. Printing correlation between 2 users
+
 
 To run it simply do:
-
 ``` python collab-filtering.py```
-
-
-See my medium post about this code here: [Collaborative Filtering in Python (User Based)](https://medium.com/ml-algorithms/collaborative-filtering-in-python-56e7fe9a5a8d)
